@@ -7,3 +7,10 @@
 | 03     | Optimality conditions | [week03](https://go.teachbase.ru/course_sessions/264101)  | [Slides](../master/week03_optcond/lecture3.pdf), [Seminar](../master/week03_optcond/seminar3.pdf), [Seminar script](../master/week03_optcond/seminar3_script.pdf)  |  [assignment03](../master/homeworks/assignment03) |  07.11.2020 20:00 GMT+3  |
 | 04     | Introduction to duality theory | [week04](https://go.teachbase.ru/course_sessions/266012)  | [Slides](../master/week04_duality/lecture4.pdf), [Seminar](../master/week04_duality/seminar4.pdf), [Seminar script](../master/week04_duality/seminar4_script.pdf)  |  |  |  |
 | 05     | Convex modeling | | [Slides](../master/week05_cvx_dcp/lecture5.pdf) | | ||
+| 06 | Review of the first part of the course | | | | |
+| 07 | Intro to numerical methods, gradient descent | | | | |
+| 08 | Accelerated modifications of gradient descent | | | | |
+| 09 | Newton method and quasi-Newton methods | | | | |
+| 10 | Intro to stochastic first-order methods | | | | |
+| 11 | Convex relaxations of combinatorial optimization problems | | | | |
+| 12 | Exam | | | | |
