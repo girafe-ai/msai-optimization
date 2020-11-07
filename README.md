@@ -10,7 +10,7 @@
 | 06 | Review of the first part of the course | | | | |
 | 07 | Intro to numerical methods, gradient descent | | [Slides](../master/week07_intro_gd/lecture6.pdf) | | |
 | 08 | Accelerated modifications of gradient descent | | [Slides](../master/week08_acc_gd/lecture7.pdf) | | |
-| 09 | Newton method and quasi-Newton methods | | | | |
-| 10 | Intro to stochastic first-order methods | | | | |
+| 09 | Intro to stochastic first-order methods | | | | |
+| 10 | Newton method and quasi-Newton methods | | | | |
 | 11 | Convex relaxations of combinatorial optimization problems | | | | |
 | 12 | Exam | | | | December 27 |
