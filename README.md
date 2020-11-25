@@ -11,6 +11,6 @@
 | 07 | Intro to numerical methods, gradient descent | [week07](https://go.teachbase.ru/course_sessions/88691 )| [Slides](../master/week07_intro_gd/lecture6.pdf), [Seminar](../master/week07_intro_gd/seminar7.ipynb), [Seminar script](../master/week07_intro_gd/seminar7_script.pdf) | [assignment06](../master/homeworks/assignment06) | 30.11.2020 10:00 GMT+3 
 | 08 | Accelerated modifications of gradient descent | [week08](https://go.teachbase.ru/course_sessions/276177) | [Slides](../master/week08_acc_gd/lecture7.pdf) | | | 
 | 09 | Intro to stochastic first-order methods | | [Slides](../master/week09_sgd/lecture8.pdf)| | |
-| 10 | Newton method and quasi-Newton methods | | [Slides](../master/week10_quasi-newton/lecture9.pdf)| | | |
+| 10 | Newton method and quasi-Newton methods | | [Slides](../master/week10-quasi-newton/lecture9.pdf)| | | |
 | 11 | Convex relaxations of combinatorial optimization problems | | | | |
 | 12 | Exam | | | | December 27 |
