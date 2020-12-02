@@ -12,5 +12,5 @@
 | 08 | Accelerated modifications of gradient descent | [week08](https://go.teachbase.ru/course_sessions/276177) | [Slides](../master/week08_acc_gd/lecture7.pdf), [Seminar](../master/week08_acc_gd/seminar8.ipynb) | | | 
 | 09 | Intro to stochastic first-order methods | [week09](https://go.teachbase.ru/course_sessions/278914) | [Slides](../master/week09_sgd/lecture8.pdf)| | |
 | 10 | Newton method and quasi-Newton methods | | [Slides](../master/week10-quasi-newton/lecture9.pdf)| | | |
-| 11 | Convex relaxations of combinatorial optimization problems | | | | |
+| 11 | Convex relaxations of combinatorial optimization problems | | [Slides](../master/week11_convex_relax/lecture10.pdf) | | |
 | 12 | Exam | | | | December 27 |
