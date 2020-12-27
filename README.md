@@ -11,6 +11,6 @@
 | 07 | Intro to numerical methods, gradient descent | [week07](https://go.teachbase.ru/course_sessions/88691 )| [Slides](../master/week07_intro_gd/lecture6.pdf), [Seminar](../master/week07_intro_gd/seminar7.ipynb), [Seminar script](../master/week07_intro_gd/seminar7_script.pdf) | [assignment06](../master/homeworks/assignment06) | 30.11.2020 10:00 GMT+3 
 | 08 | Accelerated modifications of gradient descent | [week08](https://go.teachbase.ru/course_sessions/276177) | [Slides](../master/week08_acc_gd/lecture7.pdf), [Seminar](../master/week08_acc_gd/seminar8.ipynb), [Seminar script](../master/week08_acc_gd/seminar8_script.pdf) |[assignment07](../master/homeworks/assignment07) | 10.12.2020 20:00 GMT+3  
 | 09 | Intro to stochastic first-order methods | [week09](https://go.teachbase.ru/course_sessions/278914) | [Slides](../master/week09_sgd/lecture8.pdf), [Seminar](../master/week09_sgd/seminar.ipynb)| [assignment08](../master/homeworks/assignment08) | 16.12.2020 20:00 GMT+3 |
-| 10 | Newton method and quasi-Newton methods | [week10](https://go.teachbase.ru/course_sessions/281403) | [Slides](../master/week10-quasi-newton/lecture9.pdf), [Seminar](../master/week10-quasi-newton/seminar.ipynb) | | | |
-| 11 | Convex relaxations of combinatorial optimization problems | | [Slides](../master/week11_convex_relax/lecture10.pdf), [Seminar](../master/week11_convex_relax/seminar.ipynb) | | |
-| 12 | Exam | | | | December 27 |
+| 10 | Newton method and quasi-Newton methods | [week10](https://go.teachbase.ru/course_sessions/281403) | [Slides](../master/week10-quasi-newton/lecture9.pdf), [Seminar](../master/week10-quasi-newton/seminar.ipynb) |  |  |
+| 11 | Convex relaxations of combinatorial optimization problems | | [Slides](../master/week11_convex_relax/lecture10.pdf), [Seminar](../master/week11_convex_relax/seminar.ipynb) | [assignment09](../master/homeworks/assignment09) | 24.01.2021 22:00 GMT+3 |
+| 12 | Exam | | | | January 30-31, 2021 |
