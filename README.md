@@ -10,3 +10,4 @@
 | 6 | [Lecture 5. Intro to numerical methods. Gradient descent](./lectures/lecture5.pdf) | [Seminar 6](./seminars/seminar6.pdf) |
 | 7 | [Lecture 6. Conjugate gradient method, heavy ball method and accelerated gradient method](./lectures/lecture6.pdf) | [Seminar 7](./seminars/seminar7.ipynb) |
 | 8 | [Lecture 7. Stochastic gradient methods](./lectures/lecture7.pdf) | [Seminar 8](./seminars/seminar8/seminar8.ipynb) |
+| 9 | [Lecture 8. Newton method and quasi-Newton methods](./lectures/lecture8.pdf) | [Seminar 9](./seminars/seminar9/seminar.ipynb) |
