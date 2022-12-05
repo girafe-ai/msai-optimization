@@ -7,3 +7,4 @@
 | 3 | [Lecture 2. Properties of convex functions and automatic differentiation.](./Fall2022/lectures/lecture2/lecture2.pdf) | | | 
 | 4 | [Lecture 3. Convex optimization problems and packages to solve them](./Fall2022/lectures/lecture3/lecture3.ipynb) | | |
 | 5 | | [Seminar 5](./Fall2022/seminars/seminar5.ipynb) | |
+| 6 | [Optimality conditions](./Fall2022/lectures/lecture4/lecture4.pdf) | | 
